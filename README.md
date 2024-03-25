@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, my name is Dominik 👋
+#### I am second year student at the University of Wrocław currently studying both computer science and mathematics!
 
 <!--
 **DominikBiernacki/DominikBiernacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
