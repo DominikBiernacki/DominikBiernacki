@@ -1,9 +1,26 @@
 <h1 align="center">Hi, I am Dominik 👋</h1>
 <h3 align="center">A computer science and mathematics student at the University of Wrocław!</h3>
 
+<br>
+
+<h2>My hobbies</h2>
+<h3>Video and board games</h3>
 <p>
-	My pashion? Games! I love playing different types, mostly card and strategy games, but also RPGs, survival, roguelikes and metroidvanias. Besides playing, I am also getting into game development, mostly focusing on design and balance. 
+	My pashion? Games :fire: I love playing mostly card and strategy games, but also RPGs, survivals, roguelikes and metroidvanias. :video_game: Besides playing, I am also getting into game development, mostly focusing on design, balance and implementation. 
 <p>
+<h3>Mathematics</h3>
+<p>
+	I am really interested in algebra, combinatorics, statistics, probability and graph theory. :chart_with_upwards_trend: My studies are centered around these subjects and I'm eager to learn more! :heavy_plus_sign::heavy_division_sign:
+<p>
+<h3>Computer science</h3>
+<p>
+	I'm fascinated by the Artificial Inteligence and spend a lot of time studying it. :rocket: One of my favourite activities is writing programs, that are able to solve classic puzzles, such as sudoku or nonograms. I also enjoy studying algorithms and data structures. :computer:
+<p>
+<h3>Sports</h3>
+<p>
+	I love playing squash, swimming, cycling and hitting the gym. :muscle: Also, I enjoy hiking in the polish mountains! :evergreen_tree:
+<p>
+	
 <br>
 
 <h2>My projects</h2>
@@ -12,6 +29,7 @@
   <h4>Saper - interactive version (lang: Python) (repo: https://github.com/II-UWr-22/Projekt-zespol-16)</h4>
   <h4></h4>Saper - console version (lang: C) (repo: TODO)</h4>
 </p>
+
 <br>
 
 <h2>Main languages</h2>
