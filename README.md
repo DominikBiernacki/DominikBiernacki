@@ -25,9 +25,11 @@
 
 <h2>My projects</h2>
 <p>
-	<h4>Trixure - roguelike game (lang: Java) (repo: https://github.com/qwertyzk/Trixure)</h4>
+  <h4>Trixure - roguelike game (lang: Java) (repo: https://github.com/qwertyzk/Trixure)</h4>
+  <h4>Chicken store (langs: JS/EJS/CSS/SCSS + database: PostGRE) (repo: https://github.com/qwertyzk/sklep_z_kurami)</h4>
   <h4>Saper - interactive version (lang: Python) (repo: https://github.com/II-UWr-22/Projekt-zespol-16)</h4>
-  <h4></h4>Saper - console version (lang: C) (repo: TODO)</h4>
+  <h4>Saper - console version (lang: C) (repo: https://github.com/DominikBiernacki/Saper)</h4>
+
 </p>
 
 <br>
