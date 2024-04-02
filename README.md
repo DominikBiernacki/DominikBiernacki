@@ -10,7 +10,7 @@
 <p>
 <h3>Mathematics</h3>
 <p>
-	I am really interested in algebra, combinatorics, statistics, probability and graph theory. :chart_with_upwards_trend: My studies are centered around these subjects and I'm eager to learn more! :heavy_plus_sign::heavy_division_sign:
+	I am really interested in algebra, combinatorics, statistics, probability, and graph theory. :chart_with_upwards_trend: My studies are centered around these subjects and I'm eager to learn more! :heavy_plus_sign::heavy_division_sign:
 <p>
 <h3>Computer science</h3>
 <p>
@@ -18,7 +18,7 @@
 <p>
 <h3>Sports</h3>
 <p>
-	I love playing squash, swimming, cycling and hitting the gym. :muscle: Also, I enjoy hiking in the polish mountains! :evergreen_tree:
+	I love playing squash, swimming, cycling, and hitting the gym. :muscle: Also, I enjoy hiking in the Polish mountains! :evergreen_tree:
 <p>
 	
 <br>
