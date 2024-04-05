@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I am Dominik 👋</h1>
 <h3 align="center">A computer science and mathematics student at the University of Wrocław!</h3>
 
-<br>
-
 <h2>My projects</h2>
 <p>
   <h4>Trixure - roguelike game (lang: Java) (repo: https://github.com/qwertyzk/Trixure)</h4>
