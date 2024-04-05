@@ -14,6 +14,17 @@
 
 <br>
 
+<h2>Main languages</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/-Java-DD0700?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
+</p>
+
+<br>
+
 <h2>My hobbies</h2>
 <h3>Video and board games</h3>
 <p>
@@ -31,14 +42,3 @@
 <p>
 	I love playing squash, swimming, cycling, and hitting the gym. :muscle: Also, I enjoy hiking in the Polish mountains! :evergreen_tree:
 <p>
-	
-<br>
-
-<h2>Main languages</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/-Java-DD0700?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
-</p>
