@@ -10,7 +10,8 @@
 
 <h2>My projects</h2>
 <p>
-  <h4>Arrow Head Predictor (langs: Python/Markdown) (repo: https://github.com/DominikBiernacki/Arrow-Head-Analysis)</h4>
+  <h4>Time Series Tool (lang: Python) (repo: https://github.com/DominikBiernacki/Time_Series_Tool)</h4>
+  <h4>Arrow Head Predictor (lang: Python) (repo: https://github.com/DominikBiernacki/Arrow-Head-Analysis)</h4>
   <h4>Trixure - roguelike game (lang: Java) (repo: https://github.com/qwertyzk/Trixure)</h4>
   <h4>Reversi Agent (lang: Python) (repo: https://github.com/DominikBiernacki/Reversi-Agent)</h4>
   <h4>Nonogram Solver (lang: Python) (repo: https://github.com/DominikBiernacki/Nonogram-Solver)</h4>
